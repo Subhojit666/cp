@@ -3,7 +3,7 @@ Code:
 #include <bits/stdc++.h> 
 class CircularQueue{
     int* arr;
-    int front;
+    int front; 
     int rear;
     int size;
     public:
