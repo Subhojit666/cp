@@ -1,4 +1,4 @@
-Link: https://bit.ly/34GjYL4
+Link : https://bit.ly/34GjYL4
 Code:
 #include <stack>
 vector<int> nextSmallerElement(vector<int> &arr, int n)
