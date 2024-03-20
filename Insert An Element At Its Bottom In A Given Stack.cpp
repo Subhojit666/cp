@@ -1,5 +1,5 @@
 Link:https : //bit.ly/34qqmGL
-Code:
+Code :
 #include <bits/stdc++.h>
 void solve(stack<int>& s, int x){
     if(s.empty()){
