@@ -1,5 +1,5 @@
 Link:https://www.geeksforgeeks.org/problems/height-of-binary-tree/1
-Code:
+Code :
 class Solution{
     public:
     //Function to find the height of a binary tree.
