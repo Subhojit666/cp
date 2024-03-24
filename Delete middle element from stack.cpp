@@ -1,5 +1,5 @@
-Link:https://bit.ly/3ovTIu2
-Code:
+Link : https://bit.ly/3ovTIu2
+Code :
 #include <bits/stdc++.h> 
 void solve(stack<int>&inputStack,int count, int N){
    if(count == N/2){
