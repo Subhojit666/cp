@@ -1,5 +1,5 @@
-Link:https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1
-Code:
+Link:https : //www.geeksforgeeks.org/problems/diameter-of-binary-tree/1
+Code : 
 class Solution
 {
     public:
