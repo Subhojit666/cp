@@ -1,20 +1,5 @@
 Link:https://bit.ly/3GsXWsz
 Code:
-/********************************************************************
-
-    Following is the representation of the Singly Linked List Node:
-
-    class node{
-        public:
-            int data;
-            node * next;
-            node(int data){
-                this->data=data;
-                this->next=NULL;
-            }
-    };
-    
-********************************************************************/
 node* findMid(node* head) {
     node* slow = head;
     node* fast = head -> next;
