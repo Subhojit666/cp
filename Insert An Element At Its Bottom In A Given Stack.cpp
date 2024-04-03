@@ -1,4 +1,4 @@
-Link:https : //bit.ly/34qqmGL
+Link: //https://bit.ly/34qqmGL
 Code :
 #include <bits/stdc++.h>
 void solve(stack<int>& s, int x){
