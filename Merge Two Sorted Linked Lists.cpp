@@ -1,4 +1,4 @@
-Link:https://bit.ly/3rfFdfV
+Link:https : //bit.ly/3rfFdfV
 
 Approach:
 Node<int>* solve(Node<int>* first, Node<int>* second){
