@@ -1,7 +1,7 @@
 Link : https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1
 Code :
 class Solution{
-  public:
+  public: 
     int tour(petrolPump p[],int n)
     {
        int deficit = 0 ;
