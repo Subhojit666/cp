@@ -1,4 +1,4 @@
-Link:https://bit.ly/3GsXWsz
+Link : //https://bit.ly/3GsXWsz
 Code:
 node* findMid(node* head) {
     node* slow = head;
