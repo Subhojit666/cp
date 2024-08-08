@@ -1,5 +1,5 @@
 Link:https://bit.ly/3uL7QDG
-Code:   
+Code:    
 #include <bits/stdc++.h> 
 class Queue {
     int* arr;
